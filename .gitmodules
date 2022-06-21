@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "treefit"]
+	path = treefit
+	url = https://github.com/hayamizu-lab/treefit-r
+	shallow = true
+	registered = true
